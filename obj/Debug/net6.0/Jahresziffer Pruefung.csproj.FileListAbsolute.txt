@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\bin\Debug\net6.0\Jahresziffer Pruefung.exe
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\bin\Debug\net6.0\Jahresziffer Pruefung.deps.json
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\bin\Debug\net6.0\Jahresziffer Pruefung.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\bin\Debug\net6.0\Jahresziffer Pruefung.dll
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\bin\Debug\net6.0\Jahresziffer Pruefung.pdb
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\Jahresziffer Pruefung.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\Jahresziffer Pruefung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\Jahresziffer Pruefung.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\Jahresziffer Pruefung.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\Jahresziffer Pruefung.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\Jahresziffer Pruefung.dll
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\refint\Jahresziffer Pruefung.dll
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\Jahresziffer Pruefung.pdb
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\Jahresziffer Pruefung.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Jahresziffer Pruefung\obj\Debug\net6.0\ref\Jahresziffer Pruefung.dll
